@@ -1,0 +1,15 @@
+/Users/fabiano/Projects/Exercicio8/Exercicio8/bin/Debug/net5.0/Exercicio8.deps.json
+/Users/fabiano/Projects/Exercicio8/Exercicio8/bin/Debug/net5.0/Exercicio8.runtimeconfig.json
+/Users/fabiano/Projects/Exercicio8/Exercicio8/bin/Debug/net5.0/Exercicio8.runtimeconfig.dev.json
+/Users/fabiano/Projects/Exercicio8/Exercicio8/bin/Debug/net5.0/Exercicio8.dll
+/Users/fabiano/Projects/Exercicio8/Exercicio8/bin/Debug/net5.0/ref/Exercicio8.dll
+/Users/fabiano/Projects/Exercicio8/Exercicio8/bin/Debug/net5.0/Exercicio8.pdb
+/Users/fabiano/Projects/Exercicio8/Exercicio8/obj/Debug/net5.0/Exercicio8.csproj.AssemblyReference.cache
+/Users/fabiano/Projects/Exercicio8/Exercicio8/obj/Debug/net5.0/Exercicio8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fabiano/Projects/Exercicio8/Exercicio8/obj/Debug/net5.0/Exercicio8.AssemblyInfoInputs.cache
+/Users/fabiano/Projects/Exercicio8/Exercicio8/obj/Debug/net5.0/Exercicio8.AssemblyInfo.cs
+/Users/fabiano/Projects/Exercicio8/Exercicio8/obj/Debug/net5.0/Exercicio8.csproj.CoreCompileInputs.cache
+/Users/fabiano/Projects/Exercicio8/Exercicio8/obj/Debug/net5.0/Exercicio8.dll
+/Users/fabiano/Projects/Exercicio8/Exercicio8/obj/Debug/net5.0/ref/Exercicio8.dll
+/Users/fabiano/Projects/Exercicio8/Exercicio8/obj/Debug/net5.0/Exercicio8.pdb
+/Users/fabiano/Projects/Exercicio8/Exercicio8/obj/Debug/net5.0/Exercicio8.genruntimeconfig.cache

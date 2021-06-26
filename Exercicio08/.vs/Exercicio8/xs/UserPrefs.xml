@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{85D93874-6AD5-4C86-BA66-90FE356D0DDD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Exercicio8/Cliente.cs">
+    <Files>
+      <File FileName="Exercicio8/SistemaOperacional.cs" Line="18" Column="39" IsPinned="True" />
+      <File FileName="Exercicio8/Program.cs" Line="15" Column="20" />
+      <File FileName="Exercicio8/Cliente.cs" Line="26" Column="37" />
+      <File FileName="Exercicio8/List.cs" />
+      <File FileName="Exercicio8/HardwareBasico.cs" Line="23" Column="6" />
+      <File FileName="Exercicio8/Computador.cs" Line="9" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exercicio8" expanded="True">
+            <Node name="Exercicio8" expanded="True">
+              <Node name="Cliente.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Exercicio8 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

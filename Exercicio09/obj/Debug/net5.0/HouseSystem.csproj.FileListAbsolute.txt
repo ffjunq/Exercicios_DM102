@@ -1,0 +1,31 @@
+C:/Users/bella/source/repos/Exercicio9/bin/Debug/net5.0/HouseSystem.exe
+C:/Users/bella/source/repos/Exercicio9/bin/Debug/net5.0/HouseSystem.deps.json
+C:/Users/bella/source/repos/Exercicio9/bin/Debug/net5.0/HouseSystem.runtimeconfig.json
+C:/Users/bella/source/repos/Exercicio9/bin/Debug/net5.0/HouseSystem.runtimeconfig.dev.json
+C:/Users/bella/source/repos/Exercicio9/bin/Debug/net5.0/HouseSystem.dll
+C:/Users/bella/source/repos/Exercicio9/bin/Debug/net5.0/ref/HouseSystem.dll
+C:/Users/bella/source/repos/Exercicio9/bin/Debug/net5.0/HouseSystem.pdb
+C:/Users/bella/source/repos/Exercicio9/obj/Debug/net5.0/HouseSystem.csproj.AssemblyReference.cache
+C:/Users/bella/source/repos/Exercicio9/obj/Debug/net5.0/HouseSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/bella/source/repos/Exercicio9/obj/Debug/net5.0/HouseSystem.AssemblyInfoInputs.cache
+C:/Users/bella/source/repos/Exercicio9/obj/Debug/net5.0/HouseSystem.AssemblyInfo.cs
+C:/Users/bella/source/repos/Exercicio9/obj/Debug/net5.0/HouseSystem.csproj.CoreCompileInputs.cache
+C:/Users/bella/source/repos/Exercicio9/obj/Debug/net5.0/HouseSystem.dll
+C:/Users/bella/source/repos/Exercicio9/obj/Debug/net5.0/ref/HouseSystem.dll
+C:/Users/bella/source/repos/Exercicio9/obj/Debug/net5.0/HouseSystem.pdb
+C:/Users/bella/source/repos/Exercicio9/obj/Debug/net5.0/HouseSystem.genruntimeconfig.cache
+/Users/fabiano/Documents/PosGraducao/dm102 - Java e C#/Exercícios/Exercicio9-1/bin/Debug/net5.0/HouseSystem.deps.json
+/Users/fabiano/Documents/PosGraducao/dm102 - Java e C#/Exercícios/Exercicio9-1/bin/Debug/net5.0/HouseSystem.runtimeconfig.json
+/Users/fabiano/Documents/PosGraducao/dm102 - Java e C#/Exercícios/Exercicio9-1/bin/Debug/net5.0/HouseSystem.runtimeconfig.dev.json
+/Users/fabiano/Documents/PosGraducao/dm102 - Java e C#/Exercícios/Exercicio9-1/bin/Debug/net5.0/HouseSystem.dll
+/Users/fabiano/Documents/PosGraducao/dm102 - Java e C#/Exercícios/Exercicio9-1/bin/Debug/net5.0/ref/HouseSystem.dll
+/Users/fabiano/Documents/PosGraducao/dm102 - Java e C#/Exercícios/Exercicio9-1/bin/Debug/net5.0/HouseSystem.pdb
+/Users/fabiano/Documents/PosGraducao/dm102 - Java e C#/Exercícios/Exercicio9-1/obj/Debug/net5.0/HouseSystem.csproj.AssemblyReference.cache
+/Users/fabiano/Documents/PosGraducao/dm102 - Java e C#/Exercícios/Exercicio9-1/obj/Debug/net5.0/HouseSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fabiano/Documents/PosGraducao/dm102 - Java e C#/Exercícios/Exercicio9-1/obj/Debug/net5.0/HouseSystem.AssemblyInfoInputs.cache
+/Users/fabiano/Documents/PosGraducao/dm102 - Java e C#/Exercícios/Exercicio9-1/obj/Debug/net5.0/HouseSystem.AssemblyInfo.cs
+/Users/fabiano/Documents/PosGraducao/dm102 - Java e C#/Exercícios/Exercicio9-1/obj/Debug/net5.0/HouseSystem.csproj.CoreCompileInputs.cache
+/Users/fabiano/Documents/PosGraducao/dm102 - Java e C#/Exercícios/Exercicio9-1/obj/Debug/net5.0/HouseSystem.dll
+/Users/fabiano/Documents/PosGraducao/dm102 - Java e C#/Exercícios/Exercicio9-1/obj/Debug/net5.0/ref/HouseSystem.dll
+/Users/fabiano/Documents/PosGraducao/dm102 - Java e C#/Exercícios/Exercicio9-1/obj/Debug/net5.0/HouseSystem.pdb
+/Users/fabiano/Documents/PosGraducao/dm102 - Java e C#/Exercícios/Exercicio9-1/obj/Debug/net5.0/HouseSystem.genruntimeconfig.cache
